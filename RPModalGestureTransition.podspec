@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RPModalGestureTransition"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RPModalGestureTransition!!"
   s.homepage     = "http://github.com/hiromi2424/RPModalGestureTransition"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
