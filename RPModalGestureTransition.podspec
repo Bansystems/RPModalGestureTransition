@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.1"
   s.summary      = "RPModalGestureTransition!!"
   s.homepage     = "http://github.com/hiromi2424/RPModalGestureTransition"
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author       = { "hiromi2424" => "hiromi2424@gmail.com" }
   s.source       = { :git => "https://github.com/hiromi2424/RPModalGestureTransition.git",
                      :tag => "#{s.version}" }
